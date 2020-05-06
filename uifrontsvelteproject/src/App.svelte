@@ -1,3 +1,5 @@
+// App.svelte
+
 <script>
 	
 	import Inscription from './Inscription.svelte';
